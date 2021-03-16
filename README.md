@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Globel99-Dev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything to learn something new everyday
+- 💞️ I’m looking to collaborate on anything in order to learn something new everyday
 - 📫 How to reach me globel99@protonmail.com
 
 <!---
